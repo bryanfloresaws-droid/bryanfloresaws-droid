@@ -7,6 +7,7 @@ Estudiante de Ingeniería en Desarrollo de Software en la Universidad de Oriente
 ### Lenguajes
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Frontend
@@ -33,6 +34,7 @@ Estudiante de Desarrollo de Software con proyectos académicos de escritorio, we
 - Aplicaciones web con **Node.js, Express y autenticación JWT**
 - Sistemas de gestión con **C# y bases de datos SQL**
 - Videojuegos en **Python y Pygame**, aplicando recursividad y estructuras de datos
+- Desarrollo con **JavaScript y TypeScript**
 
 **Actualmente:** cursando el 5.º ciclo de Ingeniería en Desarrollo de Software y construyendo proyectos nuevos para mi portafolio.
 
